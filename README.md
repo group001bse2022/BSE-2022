@@ -1,4 +1,4 @@
-# BSE-2022
+ # BSE-2022
 This repository is created to collect the assignment solutions for the subject SWE1102 Structured Programming 2022
  for the students of Bachelors of Software Engineering  Year I, in the faculty of Computing and Informatics, MUST.
  #GROUP MEMBERS
@@ -8,3 +8,4 @@ This repository is created to collect the assignment solutions for the subject S
 4. ABESIGA BRANIA         2021/BSE/003/PS
 5. NAKIMBUGWE EDITH       2021/BSE/091/PS
 6. BBIIRA VICTOR KEVIN    2021/BSE/036/PS
+7. BUDALA EDMUND TUTUMA   2021/BSE/180/PS
