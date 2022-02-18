@@ -1,16 +1,19 @@
-hours = int(input("Enter the number of hours worked : "))
-rate = float(input("Enter the hourly working rate : "))
+score = float(input("Enter your score : "))
 
-def computepay(hours, rate):
-    if hours > 40:
-        eh = (hours - 40)
-        er = rate * 1.5
-        ep = (eh * er)
-
-        pay = (40 * rate) + ep
-        print(pay)
+def computegrade(score):
+    if 0.0 < score < 1.0:
+        if score >= 0.9:
+            print("A")
+        elif score >= 0.8:
+            print("B")
+        elif score >= 0.7:
+            print("C")
+        elif score >= 0.6:
+            print("D")
+        else:
+            print("F")
     else:
-        pay = hours * rate
-        print(pay)
+        print("Bad score")
 
-computepay(hours, rate)
+
+computegrade(score)

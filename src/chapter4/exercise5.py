@@ -1,3 +1,13 @@
-# What is the purpose of def keyword in python?
+def fred():
+    print("Zap")
 
-# b) it indicates the start of a function
+
+def jane():
+    print("ABC")
+
+
+jane()
+fred()
+jane()
+
+# it prints out ABC Zap ABC
