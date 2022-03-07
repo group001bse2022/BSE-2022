@@ -9,3 +9,4 @@ This repository is created to collect the assignment solutions for the subject S
 5. NAKIMBUGWE EDITH       2021/BSE/091/PS
 6. BBIIRA VICTOR KEVIN    2021/BSE/036/PS
 7. ADANIA KEZZY           2021/BSE/191/PS
+8. ODONGO SAMUEL          2021/BSE/108/PS
