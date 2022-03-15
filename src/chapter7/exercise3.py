@@ -1,4 +1,4 @@
-inputName = input("Enter the file name : ")
+inputName = input("Enter the file path and name : ")
 try:
     with open(inputName, 'r') as readFile:
         print("na na boo boo")
